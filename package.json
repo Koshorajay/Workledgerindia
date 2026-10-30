@@ -1,0 +1,36 @@
+{
+  "name": "workledger-compliance",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0",
+    "build": "next build",
+    "start": "node scripts/serve.mjs",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "predev": "node scripts/prepare-data.mjs",
+    "prebuild": "node scripts/prepare-data.mjs",
+    "seed:templates": "node --import tsx scripts/build-template-seed.mjs",
+    "setup:sql": "node --import tsx scripts/build-setup-sql.mjs"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.117.3",
+    "lucide-react": "^0.468.0",
+    "next": "^16.4.3",
+    "papaparse": "^5.5.3",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.3.16",
+    "@types/node": "^22.0.0",
+    "@types/papaparse": "^5.3.16",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "^16.4.3",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  }
+}

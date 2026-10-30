@@ -1,0 +1,66 @@
+WORKLEDGER COMPLIANCE — NEW SUPABASE PROJECT SETUP
+==================================================
+
+This copy needs its OWN Supabase project. Do not connect it to the original
+two-company WorkLedger project, and never run these migrations there: they add
+tables and replace the task guard trigger.
+
+1. CREATE THE PROJECT
+Create a new Supabase project (Mumbai region recommended). In Authentication,
+disable public sign-ups and anonymous sign-ins and set the minimum password
+length to 12.
+
+2. APPLY THE MIGRATIONS, ONCE, IN THIS ORDER (SQL editor or migration tooling)
+- supabase/migrations/001_workledger.sql
+- supabase/migrations/20261009150648_restrict_auto_rls_and_index_audit_actors.sql
+- supabase/migrations/20261009152320_add_username_accounts.sql
+- supabase/migrations/20261024120000_compliance_library.sql
+- supabase/migrations/20261024120100_seed_compliance_templates.sql
+
+The last file seeds 52 compliance templates as "Needs review". Rerunning it skips
+existing codes, so reviewed edits are kept. Keep the private schema out of the
+Data API exposed schemas. All nine public tables use RLS; do not disable it.
+
+SHORTCUT: npm run setup:sql writes SUPABASE_SETUP.sql, which holds all five files,
+in this order, as one transaction, and also links the first administrator (step
+3). The file is generated when needed and is not kept in the repository. Create
+that Auth user FIRST, then run the whole file once in the SQL editor. If the Auth
+user is missing, or WorkLedger tables already exist, it stops and changes nothing.
+
+3. FIRST ADMINISTRATOR
+In the dashboard, create an Auth user admin@workledger.invalid with a strong
+password and Auto confirm on. SUPABASE_SETUP.sql links it for you. With the
+separate migration files, link its real UUID (do not invent one):
+
+insert into public.profiles (auth_user_id,username,full_name,display_name,role)
+values ('ACTUAL_ADMIN_AUTH_UUID','admin','Administrator','Admin','admin');
+
+4. ACCOUNT-MANAGEMENT FUNCTION
+Deploy supabase/functions/manage-users with JWT verification enabled. In Edge
+Functions > Secrets set APP_ORIGIN to the exact frontend origin (no trailing
+slash). Add staff from admin > People.
+
+5. FRONTEND
+Create the ignored .env.local with this project's public values only:
+NEXT_PUBLIC_SUPABASE_URL=https://<new-project-ref>.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=<new project's publishable key>
+
+Never put a service-role key in a NEXT_PUBLIC value. Values are embedded at
+build time: npm run build, then deploy out/ (for example as a new Vercel project,
+not the original one). Set the Auth Site URL and redirect allow-list to the new
+origin.
+
+6. FIRST USE
+a. Library: open each template, check it against its official references and
+   mark it reviewed (or edit/retire it). Only reviewed templates can be activated.
+b. Companies: add companies, then choose Compliance setup.
+c. Checklists: answer the questionnaire and save it, review the suggestions,
+   confirm and activate.
+d. Apply & assign: pick a due-date window, assign people (per row or in bulk)
+   and create the responsibilities. Re-running a window skips existing ones.
+
+When CBIC, CBDT or MCA extends a date, edit the template's "Notified extensions"
+(period | YYYY-MM-DD | reference) and review it again.
+
+Without both public values the app runs as a read-only preview: the library,
+questionnaire, suggestions and apply step can be explored, but nothing is saved.

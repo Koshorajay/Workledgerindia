@@ -1,0 +1,700 @@
+[
+  {
+    "id": "om-01",
+    "assigned_person": "Omprasanth",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Daily",
+    "particular": "Sales Register",
+    "objective": "Review sales invoices",
+    "activity": "Reviewing Sales Invoice",
+    "documents_required": null,
+    "timeline_text": "T+1/2 Days",
+    "reporting_person": "Madhusudan",
+    "source_pdf_name": "Incore_Work_Allocation_Om_Prasanth.pdf",
+    "source_reference": "Incore_Work_Allocation_Om_Prasanth.pdf, page 1, table row 1",
+    "review_flags": [
+      "Ambiguous relative timeline: T+1/2 Days; confirm whether 1-2 days or half a day, and define T."
+    ]
+  },
+  {
+    "id": "om-02",
+    "assigned_person": "Omprasanth",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Daily",
+    "particular": "Purchase Register",
+    "objective": "Review purchase invoices",
+    "activity": "Reviewing Purchase Bills",
+    "documents_required": null,
+    "timeline_text": "T+1/2 Days",
+    "reporting_person": "Madhusudan",
+    "source_pdf_name": "Incore_Work_Allocation_Om_Prasanth.pdf",
+    "source_reference": "Incore_Work_Allocation_Om_Prasanth.pdf, page 1, table row 2",
+    "review_flags": [
+      "Ambiguous relative timeline: T+1/2 Days; confirm whether 1-2 days or half a day, and define T."
+    ]
+  },
+  {
+    "id": "om-03",
+    "assigned_person": "Omprasanth",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Daily",
+    "particular": "Cash Balance",
+    "objective": "Ensure reconciliation of Cash Book and Cash-in-Hand by Accountant",
+    "activity": "Reviewing Cash Vouchers",
+    "documents_required": null,
+    "timeline_text": "T+1/2 Days",
+    "reporting_person": "Madhusudan",
+    "source_pdf_name": "Incore_Work_Allocation_Om_Prasanth.pdf",
+    "source_reference": "Incore_Work_Allocation_Om_Prasanth.pdf, page 1, table row 3",
+    "review_flags": [
+      "Ambiguous relative timeline: T+1/2 Days; confirm whether 1-2 days or half a day, and define T."
+    ]
+  },
+  {
+    "id": "om-04",
+    "assigned_person": "Omprasanth",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Daily",
+    "particular": "Bank Balance",
+    "objective": "Ensure Bank Account balance is reconciled with Books",
+    "activity": "Reviewing Bank Statements",
+    "documents_required": null,
+    "timeline_text": "T+1/2 Days",
+    "reporting_person": "Madhusudan",
+    "source_pdf_name": "Incore_Work_Allocation_Om_Prasanth.pdf",
+    "source_reference": "Incore_Work_Allocation_Om_Prasanth.pdf, page 1, table row 4",
+    "review_flags": [
+      "Ambiguous relative timeline: T+1/2 Days; confirm whether 1-2 days or half a day, and define T."
+    ]
+  },
+  {
+    "id": "om-05",
+    "assigned_person": "Omprasanth",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Daily",
+    "particular": "Mails",
+    "objective": "Check mails daily and correspond with internal team on accounting and follow-ups",
+    "activity": "Correspondence",
+    "documents_required": null,
+    "timeline_text": "T+1/2 Days",
+    "reporting_person": "Madhusudan",
+    "source_pdf_name": "Incore_Work_Allocation_Om_Prasanth.pdf",
+    "source_reference": "Incore_Work_Allocation_Om_Prasanth.pdf, page 1, table row 5",
+    "review_flags": [
+      "Ambiguous relative timeline: T+1/2 Days; confirm whether 1-2 days or half a day, and define T."
+    ]
+  },
+  {
+    "id": "om-06",
+    "assigned_person": "Omprasanth",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Daily",
+    "particular": "Bills",
+    "objective": "All bills to be approved on daily basis",
+    "activity": "Approving Invoices",
+    "documents_required": null,
+    "timeline_text": "Daily / T+1",
+    "reporting_person": "Madhusudan",
+    "source_pdf_name": "Incore_Work_Allocation_Om_Prasanth.pdf",
+    "source_reference": "Incore_Work_Allocation_Om_Prasanth.pdf, page 1, table row 6",
+    "review_flags": [
+      "Relative timeline needs an anchor date; source says Daily / T+1."
+    ]
+  },
+  {
+    "id": "om-07",
+    "assigned_person": "Omprasanth",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Weekly",
+    "particular": "Credit Card Upload",
+    "objective": "Review credit card entries passed monthly by accountants",
+    "activity": "Reporting & Compliance",
+    "documents_required": null,
+    "timeline_text": "7th of consecutive month",
+    "reporting_person": "Madhusudan",
+    "source_pdf_name": "Incore_Work_Allocation_Om_Prasanth.pdf",
+    "source_reference": "Incore_Work_Allocation_Om_Prasanth.pdf, page 1, table row 7",
+    "review_flags": [
+      "Frequency/timeline conflict: source says Weekly but timeline says 7th of consecutive month. Preserve both pending review."
+    ]
+  },
+  {
+    "id": "om-08",
+    "assigned_person": "Omprasanth",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Weekly",
+    "particular": "MIS Reports",
+    "objective": "Create MIS report",
+    "activity": "Reporting & Compliance",
+    "documents_required": null,
+    "timeline_text": "7th of consecutive month",
+    "reporting_person": "Madhusudan",
+    "source_pdf_name": "Incore_Work_Allocation_Om_Prasanth.pdf",
+    "source_reference": "Incore_Work_Allocation_Om_Prasanth.pdf, page 1, table row 8",
+    "review_flags": [
+      "Frequency/timeline conflict: source says Weekly but timeline says 7th of consecutive month. Preserve both pending review."
+    ]
+  },
+  {
+    "id": "om-09",
+    "assigned_person": "Omprasanth",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Weekly",
+    "particular": "P/L Review",
+    "objective": "Check P/L for irregularities and report to Accountant",
+    "activity": "Review",
+    "documents_required": null,
+    "timeline_text": "7th of consecutive month",
+    "reporting_person": "Madhusudan",
+    "source_pdf_name": "Incore_Work_Allocation_Om_Prasanth.pdf",
+    "source_reference": "Incore_Work_Allocation_Om_Prasanth.pdf, page 1, table row 9",
+    "review_flags": [
+      "Frequency/timeline conflict: source says Weekly but timeline says 7th of consecutive month. Preserve both pending review."
+    ]
+  },
+  {
+    "id": "om-10",
+    "assigned_person": "Omprasanth",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Weekly",
+    "particular": "B/S Review",
+    "objective": "Check B/S for irregularities and report to Accountant",
+    "activity": "Review",
+    "documents_required": null,
+    "timeline_text": "7th of consecutive month",
+    "reporting_person": "Madhusudan",
+    "source_pdf_name": "Incore_Work_Allocation_Om_Prasanth.pdf",
+    "source_reference": "Incore_Work_Allocation_Om_Prasanth.pdf, page 1, table row 10",
+    "review_flags": [
+      "Frequency/timeline conflict: source says Weekly but timeline says 7th of consecutive month. Preserve both pending review."
+    ]
+  },
+  {
+    "id": "om-11",
+    "assigned_person": "Omprasanth",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Weekly",
+    "particular": "Payrolls",
+    "objective": "Check and approve payroll workings; make sure payments are processed",
+    "activity": "Reporting",
+    "documents_required": null,
+    "timeline_text": "7th of consecutive month",
+    "reporting_person": "Madhusudan",
+    "source_pdf_name": "Incore_Work_Allocation_Om_Prasanth.pdf",
+    "source_reference": "Incore_Work_Allocation_Om_Prasanth.pdf, page 1, table row 11",
+    "review_flags": [
+      "Frequency/timeline conflict: source says Weekly but timeline says 7th of consecutive month. Preserve both pending review."
+    ]
+  },
+  {
+    "id": "om-12",
+    "assigned_person": "Omprasanth",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "Preparation of Financial Statements",
+    "objective": "Ensure accountant properly prepares FS by 30th June every year",
+    "activity": "Review and Follow Up",
+    "documents_required": null,
+    "timeline_text": "By 30th June",
+    "reporting_person": "Madhusudan",
+    "source_pdf_name": "Incore_Work_Allocation_Om_Prasanth.pdf",
+    "source_reference": "Incore_Work_Allocation_Om_Prasanth.pdf, page 1, table row 12",
+    "review_flags": [
+      "Annual date has no task period or year; confirm before setting a due date."
+    ]
+  },
+  {
+    "id": "sasi-01",
+    "assigned_person": "Sasidharan",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Monthly",
+    "particular": "Monthly GST Computation and GST Payments",
+    "objective": "Follow up for monthly GST computation and ensure GST payments within due dates",
+    "activity": "Follow Up",
+    "documents_required": null,
+    "timeline_text": "7th and 17th of consecutive month",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_Sasidharan.pdf",
+    "source_reference": "Incore_Work_Allocation_Sasidharan.pdf, page 1, table row 1",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Timeline contains two dates for one responsibility; confirm milestones and applicable month before setting a due date."
+    ]
+  },
+  {
+    "id": "sasi-02",
+    "assigned_person": "Sasidharan",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Monthly",
+    "particular": "TDS Payment",
+    "objective": "Review TDS workings and follow up for TDS challans to be paid within 7th of next month",
+    "activity": "Review and Compliance",
+    "documents_required": null,
+    "timeline_text": "7th of consecutive month",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_Sasidharan.pdf",
+    "source_reference": "Incore_Work_Allocation_Sasidharan.pdf, page 1, table row 2",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Relative month needs a task period before setting a due date."
+    ]
+  },
+  {
+    "id": "sasi-03",
+    "assigned_person": "Sasidharan",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Monthly",
+    "particular": "TDS Payable and Adjustment Entries",
+    "objective": "Ensure Accountant has passed TDS adjustment entries in Zoho against TDS Payable",
+    "activity": "Review",
+    "documents_required": null,
+    "timeline_text": "7th of consecutive month",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_Sasidharan.pdf",
+    "source_reference": "Incore_Work_Allocation_Sasidharan.pdf, page 1, table row 3",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Relative month needs a task period before setting a due date."
+    ]
+  },
+  {
+    "id": "sasi-04",
+    "assigned_person": "Sasidharan",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Quarterly",
+    "particular": "TDS Returns",
+    "objective": "Ensure TDS returns are filed within due date",
+    "activity": "Review",
+    "documents_required": null,
+    "timeline_text": "30th of the month after the quarter",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_Sasidharan.pdf",
+    "source_reference": "Incore_Work_Allocation_Sasidharan.pdf, page 1, table row 4",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Relative quarter needs a task period; statutory dates must be independently confirmed before use."
+    ]
+  },
+  {
+    "id": "sasi-05",
+    "assigned_person": "Sasidharan",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Quarterly",
+    "particular": "GST Returns",
+    "objective": "Ensure GSTR are filed within due date",
+    "activity": "Review",
+    "documents_required": null,
+    "timeline_text": "Quarterly",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_Sasidharan.pdf",
+    "source_reference": "Incore_Work_Allocation_Sasidharan.pdf, page 1, table row 5",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source does not specify a calendar due date; needs review before scheduling."
+    ]
+  },
+  {
+    "id": "sasi-06",
+    "assigned_person": "Sasidharan",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "Advance Tax",
+    "objective": "Ensure advance tax is paid and accounted in books within due date",
+    "activity": "Review",
+    "documents_required": null,
+    "timeline_text": "As per due date",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_Sasidharan.pdf",
+    "source_reference": "Incore_Work_Allocation_Sasidharan.pdf, page 1, table row 6",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source does not specify a calendar due date; needs review before scheduling."
+    ]
+  },
+  {
+    "id": "sasi-07",
+    "assigned_person": "Sasidharan",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "GST Annual Returns",
+    "objective": "Ensure GSTR 9 and GSTR 9C (if applicable) are filed within due date",
+    "activity": "Review and Follow Up",
+    "documents_required": null,
+    "timeline_text": "Annual due date",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_Sasidharan.pdf",
+    "source_reference": "Incore_Work_Allocation_Sasidharan.pdf, page 1, table row 7",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source does not specify a calendar due date; needs review before scheduling.",
+      "GSTR 9C is conditional in the source; applicability needs review."
+    ]
+  },
+  {
+    "id": "sasi-08",
+    "assigned_person": "Sasidharan",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "Statutory Audit",
+    "objective": "Follow up with Statutory Auditor for signing of Financial Statements by 20th August every year",
+    "activity": "Review and Follow Up",
+    "documents_required": null,
+    "timeline_text": "20th August",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_Sasidharan.pdf",
+    "source_reference": "Incore_Work_Allocation_Sasidharan.pdf, page 1, table row 8",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Annual date has no task period or year; confirm before setting a due date."
+    ]
+  },
+  {
+    "id": "sasi-09",
+    "assigned_person": "Sasidharan",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "CARO, IFC and Disclosures",
+    "objective": "Review other reports by Auditor by 20th August every year",
+    "activity": "Review and Follow Up",
+    "documents_required": null,
+    "timeline_text": "20th August",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_Sasidharan.pdf",
+    "source_reference": "Incore_Work_Allocation_Sasidharan.pdf, page 1, table row 9",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Annual date has no task period or year; confirm before setting a due date."
+    ]
+  },
+  {
+    "id": "sasi-10",
+    "assigned_person": "Sasidharan",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "Tax Audit",
+    "objective": "Follow up with Tax Auditor for filing Tax Audit Report within due date",
+    "activity": "Review and Follow Up",
+    "documents_required": null,
+    "timeline_text": "Due date",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_Sasidharan.pdf",
+    "source_reference": "Incore_Work_Allocation_Sasidharan.pdf, page 1, table row 10",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source does not specify a calendar due date; needs review before scheduling."
+    ]
+  },
+  {
+    "id": "sasi-11",
+    "assigned_person": "Sasidharan",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "Income Tax Return",
+    "objective": "Follow up with Auditor for filing of ITR within due date",
+    "activity": "Review and Follow Up",
+    "documents_required": null,
+    "timeline_text": "Due date",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_Sasidharan.pdf",
+    "source_reference": "Incore_Work_Allocation_Sasidharan.pdf, page 1, table row 11",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source does not specify a calendar due date; needs review before scheduling."
+    ]
+  },
+  {
+    "id": "cs-01",
+    "assigned_person": "CS",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "Director E-KYC Renewal",
+    "objective": "Follow up with CS for renewal of Director E-KYC",
+    "activity": "Review and Follow Up",
+    "documents_required": null,
+    "timeline_text": "Filed DIR E-KYC",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_CS.pdf",
+    "source_reference": "Incore_Work_Allocation_CS.pdf, page 1, table row 1",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source Timeline column contains a deliverable or label, not a calendar due date; retained verbatim and needs review."
+    ]
+  },
+  {
+    "id": "cs-02",
+    "assigned_person": "CS",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "DPT-3",
+    "objective": "Follow up with CS for filing of Annual Returns within due date",
+    "activity": "Review and Follow Up",
+    "documents_required": null,
+    "timeline_text": "Filed respective MCA returns",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_CS.pdf",
+    "source_reference": "Incore_Work_Allocation_CS.pdf, page 1, table row 2",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source Timeline column contains a deliverable or label, not a calendar due date; retained verbatim and needs review."
+    ]
+  },
+  {
+    "id": "cs-03",
+    "assigned_person": "CS",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "MSME",
+    "objective": "CS",
+    "activity": "—",
+    "documents_required": null,
+    "timeline_text": "Annual compliance",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_CS.pdf",
+    "source_reference": "Incore_Work_Allocation_CS.pdf, page 1, table row 3",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source Timeline column contains a deliverable or label, not a calendar due date; retained verbatim and needs review.",
+      "Objective / Responsibility only states CS and Activity is an em dash; detailed work is not supplied."
+    ]
+  },
+  {
+    "id": "cs-04",
+    "assigned_person": "CS",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "AOC-4",
+    "objective": "CS",
+    "activity": "—",
+    "documents_required": null,
+    "timeline_text": "Annual compliance",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_CS.pdf",
+    "source_reference": "Incore_Work_Allocation_CS.pdf, page 1, table row 4",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source Timeline column contains a deliverable or label, not a calendar due date; retained verbatim and needs review.",
+      "Objective / Responsibility only states CS and Activity is an em dash; detailed work is not supplied."
+    ]
+  },
+  {
+    "id": "cs-05",
+    "assigned_person": "CS",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "MGT-14",
+    "objective": "CS",
+    "activity": "—",
+    "documents_required": null,
+    "timeline_text": "Annual compliance",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_CS.pdf",
+    "source_reference": "Incore_Work_Allocation_CS.pdf, page 1, table row 5",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source Timeline column contains a deliverable or label, not a calendar due date; retained verbatim and needs review.",
+      "Objective / Responsibility only states CS and Activity is an em dash; detailed work is not supplied."
+    ]
+  },
+  {
+    "id": "cs-06",
+    "assigned_person": "CS",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "MGT-7",
+    "objective": "CS",
+    "activity": "—",
+    "documents_required": null,
+    "timeline_text": "Annual compliance",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_CS.pdf",
+    "source_reference": "Incore_Work_Allocation_CS.pdf, page 1, table row 6",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source Timeline column contains a deliverable or label, not a calendar due date; retained verbatim and needs review.",
+      "Objective / Responsibility only states CS and Activity is an em dash; detailed work is not supplied."
+    ]
+  },
+  {
+    "id": "cs-07",
+    "assigned_person": "CS",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "Register of Members",
+    "objective": "Follow up with CS for updation of Register",
+    "activity": "Review and Follow Up",
+    "documents_required": null,
+    "timeline_text": "Signed Register of Members",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_CS.pdf",
+    "source_reference": "Incore_Work_Allocation_CS.pdf, page 1, table row 7",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source Timeline column contains a deliverable or label, not a calendar due date; retained verbatim and needs review."
+    ]
+  },
+  {
+    "id": "cs-08",
+    "assigned_person": "CS",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "Register of Charges",
+    "objective": "Follow up with CS for updation of Register",
+    "activity": "Review and Follow Up",
+    "documents_required": null,
+    "timeline_text": "Signed Register of Charges",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_CS.pdf",
+    "source_reference": "Incore_Work_Allocation_CS.pdf, page 1, table row 8",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source Timeline column contains a deliverable or label, not a calendar due date; retained verbatim and needs review."
+    ]
+  },
+  {
+    "id": "cs-09",
+    "assigned_person": "CS",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "AGM Minutes of Meeting",
+    "objective": "Follow up with CS for MOM",
+    "activity": "Review and Follow Up",
+    "documents_required": null,
+    "timeline_text": "AGM MOM",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_CS.pdf",
+    "source_reference": "Incore_Work_Allocation_CS.pdf, page 1, table row 9",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source Timeline column contains a deliverable or label, not a calendar due date; retained verbatim and needs review."
+    ]
+  },
+  {
+    "id": "cs-10",
+    "assigned_person": "CS",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "AGM Resolutions",
+    "objective": "Follow up with CS for AGM Resolution drafter",
+    "activity": "Review and Follow Up",
+    "documents_required": null,
+    "timeline_text": "AGM Resolutions",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_CS.pdf",
+    "source_reference": "Incore_Work_Allocation_CS.pdf, page 1, table row 10",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source Timeline column contains a deliverable or label, not a calendar due date; retained verbatim and needs review.",
+      "Objective says AGM Resolution drafter; wording preserved without correction."
+    ]
+  },
+  {
+    "id": "cs-11",
+    "assigned_person": "CS",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "Annual Board of Directors Report",
+    "objective": "Follow up with CS for filing BOD Report",
+    "activity": "Review and Follow Up",
+    "documents_required": null,
+    "timeline_text": "Draft Annual Board Report",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_CS.pdf",
+    "source_reference": "Incore_Work_Allocation_CS.pdf, page 1, table row 11",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source Timeline column contains a deliverable or label, not a calendar due date; retained verbatim and needs review."
+    ]
+  },
+  {
+    "id": "cs-12",
+    "assigned_person": "CS",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "XBRL (if applicable)",
+    "objective": "Follow up with CS for filing of Annual XBRL Returns within due date",
+    "activity": "Review and Follow Up",
+    "documents_required": null,
+    "timeline_text": "Filed XBRL Return",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_CS.pdf",
+    "source_reference": "Incore_Work_Allocation_CS.pdf, page 1, table row 12",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source Timeline column contains a deliverable or label, not a calendar due date; retained verbatim and needs review.",
+      "Responsibility is conditional in the source; applicability needs review."
+    ]
+  },
+  {
+    "id": "cs-13",
+    "assigned_person": "CS",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "Related Party Register",
+    "objective": "Follow up with CS for updation of Register",
+    "activity": "Review and Follow Up",
+    "documents_required": null,
+    "timeline_text": "CS",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_CS.pdf",
+    "source_reference": "Incore_Work_Allocation_CS.pdf, page 1, table row 13",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source Timeline column contains a deliverable or label, not a calendar due date; retained verbatim and needs review."
+    ]
+  },
+  {
+    "id": "cs-14",
+    "assigned_person": "CS",
+    "source_company": "Incore SemiConductors Private Limited",
+    "category": null,
+    "frequency": "Annually",
+    "particular": "Related Party Disclosure",
+    "objective": "Ensure disclosure on RPT is put on record by CS",
+    "activity": "Review and Follow Up",
+    "documents_required": null,
+    "timeline_text": "CS",
+    "reporting_person": null,
+    "source_pdf_name": "Incore_Work_Allocation_CS.pdf",
+    "source_reference": "Incore_Work_Allocation_CS.pdf, page 1, table row 14",
+    "review_flags": [
+      "Reporting person is not supplied in this PDF.",
+      "Source Timeline column contains a deliverable or label, not a calendar due date; retained verbatim and needs review."
+    ]
+  }
+]

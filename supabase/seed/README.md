@@ -1,0 +1,1 @@
+Seed data lives in ../../data/responsibilities.json. Use the admin JSON/CSV review screen (recommended) or ../../scripts/import/seed.mjs after creating the Auth users and profiles. Run the script without --apply first for a dry run. No passwords, Auth UUIDs or project credentials are hard-coded. All initial tasks need source review; no dates or completed statuses are invented.
