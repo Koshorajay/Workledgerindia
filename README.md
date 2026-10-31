@@ -1,3 +1,8 @@
+#**Try for free:**
+ID= trywlin
+pass= Try@workledger
+
+
 # WorkLedger Compliance
 
 A separate copy of WorkLedger (the two-company workspace for **Ter\_\_\_lt Tech** and **Par\_\_i**) that adds a statutory compliance layer for any number of companies:
